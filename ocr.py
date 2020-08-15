@@ -1,0 +1,1 @@
+#https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
